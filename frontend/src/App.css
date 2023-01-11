@@ -32,3 +32,64 @@
   object-fit: cover;
 }
 
+.home{
+  display: flex;
+  padding: 50px 100px;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.card{
+  width: 30%;
+  padding: 15px;
+  border-radius: 20px;
+  box-shadow: 0px 5px 33px -21px rgba(66, 68, 90, 1);
+  background-color: #eee;
+  margin-bottom: 30px;
+
+}
+
+.title{
+  font-weight: 600;
+  font-size: large;
+}
+
+img {
+  width: 100%;
+  height: 200px;
+  object-fit: cover;
+  margin: 20px 0px;
+}
+
+.desc {
+  color: #333;
+  margin-bottom: 20px;
+  line-height: 25px;
+}
+
+.cardButton {
+  border: none;
+  border-radius: 10px;
+  background-color: rgba(53, 16, 102, 0.678);
+  padding: 10px;
+  color: white;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+.postImg {
+  width: 100%;
+  height: 300px;
+  object-fit: cover;
+  margin-bottom: 20px;
+}
+
+.postDesc {
+  padding: 0 100px;
+  font-size: 24px;
+  font-weight: 300;
+  color: gray;
+  margin-top: 50px;
+}
+
