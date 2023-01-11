@@ -1,0 +1,17 @@
+{
+  "name": "auth_social",
+  "version": "1.0.0",
+  "description": "Social logins integrated",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "MERN",
+    "React",
+    "NodeJs",
+    "MongoDB"
+  ],
+  "author": "Narayan Maity",
+  "license": "ISC"
+}
